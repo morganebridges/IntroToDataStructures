@@ -1,3 +1,4 @@
+package airport;
 import java.util.Random;
 /**
  * This class will randomly generate values to determine whether a 

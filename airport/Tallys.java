@@ -1,3 +1,4 @@
+package airport;
 /**
  * This Class is for tallying and averaging the types of planes
  * @author Morgan Bridges

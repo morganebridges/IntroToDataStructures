@@ -1,3 +1,4 @@
+package airport;
 import java.util.LinkedList;
 	import java.util.Queue;
 public class Airport2 {
@@ -15,7 +16,7 @@ public class Airport2 {
 	Airport2(int simulationTime, int timeOnRunway, double probability, int timeToCrash)
 	{
 		this.simulationTime = simulationTime;
-		probabilityEngine = new ProbabilityEngine(probability);
+		//probabilityEngine = new ProbabilityEngine(probability);
 		this.timeToCrash = timeToCrash;
 		runway = new Runway(timeOnRunway);
 		elapsedTime = 0;

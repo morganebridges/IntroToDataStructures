@@ -48,7 +48,6 @@ public class IntBalancedSet2 implements Cloneable
 
    /**
    * Initialize an empty set.
-   * @param - none
    * <dt><b>Postcondition:</b><dd>
    *   This set is empty.
    * @exception OutOfMemoryError
